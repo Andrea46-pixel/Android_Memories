@@ -11,11 +11,4 @@ Android Studio).
 App: si progetti e si implementi una app che supporti due versioni di Android distanti almeno 5 API Level
 (esempio: 35 e 30); l’app deve essere progettata per esemplificare differenze significative tra le due versioni scelte. Si suggerisce di verificare il funzionamento con le due versioni scelte tramite l’emulatore
 Android con due immagini di sistema opportune.
-## Per iniziare la ricerca bibliografica
-• The history of Android
-• Wikipedia: Android, sezione “History”
-• 15 years of Android memories
-• Support Ended for Eclipse ADT
-• Android Platform Releases
-• SDK release notes: SDK platform, build tools, platform tools
-• Android API Differences Report tool (per esempio, da API Level 33 a 34)
+
