@@ -12,4 +12,5 @@ App: si progetti e si implementi una app che supporti due versioni di Android di
 (esempio: 35 e 30); l’app deve essere progettata per esemplificare differenze significative tra le due versioni scelte. Si suggerisce di verificare il funzionamento con le due versioni scelte tramite l’emulatore
 Android con due immagini di sistema opportune.
 
+Prova
 
